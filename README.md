@@ -2,6 +2,8 @@
 
 [![](https://img.shields.io/badge/-Colaboratory-yellow.svg?style=for-the-badge&logo=appveyor)](https://drive.google.com/file/d/1mMKGnVxirJnqDViH7BDJxFqWrsXlPSoK/view)
 
+base : https://github.com/minimaxir/textgenrnn
+
 [textgenrnn](https://github.com/minimaxir/textgenrnn)을 이용하여 shakespeare의 글을 재생산합니다. [Interactive_textgenrnn_Demo.ipynb](https://github.com/Humelo/textgenrnn/blob/master/Interactive_textgenrnn_Demo.ipynb) 파일을 실행시키면 해당 내용을 진행할 수 있습니다. 기본적으로 Keras와 TensorFlow가 설치돼 있어야 합니다.
 
 ## 참고
